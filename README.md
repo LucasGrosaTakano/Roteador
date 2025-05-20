@@ -47,7 +47,7 @@ https://emulator.tp-link.com/ax11000-v1-eu/index.html
 #### - Clonar MAC: Ative se a Vivo bloquear o roteador.
 
 ### 3️⃣ Wi-Fi Tri-Band (Otimizado para Performance Máxima)
-Acesse Wireless e configure cada banda:
+#### Acesse Wireless e configure cada banda:
 
 - #### 📶 Banda 2.4GHz (Para dispositivos IoT e legados)
 - #### SSID: Casa_2.4G (diferente do 5GHz).
