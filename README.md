@@ -29,6 +29,9 @@ https://emulator.tp-link.com/ax11000-v1-eu/index.html
 
 ### 2️⃣ Configuração da Internet (WAN - Vivo Fibra)
 ### Vá para Advanced > Network > Internet.
+![image](https://github.com/user-attachments/assets/e78557d6-c4eb-4ca8-9d77-e4ca8d33d244)
+![image](https://github.com/user-attachments/assets/653ccf21-cd82-44dc-baa5-869eb910e847)
+![image](https://github.com/user-attachments/assets/059d304b-29f0-4606-b4e7-7b9b0899c818)
 
 #### Selecione:
 
