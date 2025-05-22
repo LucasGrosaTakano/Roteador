@@ -57,6 +57,7 @@ https://emulator.tp-link.com/ax11000-v1-eu/index.html
 
 ### 3️⃣ Wi-Fi Tri-Band (Otimizado para Performance Máxima)
 #### Acesse Wireless e configure cada banda:
+![image](https://github.com/user-attachments/assets/06046ed1-c8fe-491a-8317-4c50325f447e)
 
 - #### 📶 Banda 2.4GHz (Para dispositivos IoT e legados)
 - #### SSID: Casa_2.4G (diferente do 5GHz).
