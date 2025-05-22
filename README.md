@@ -30,6 +30,7 @@ https://emulator.tp-link.com/ax11000-v1-eu/index.html
 ### 2️⃣ Configuração da Internet (WAN - Vivo Fibra)
 ### Vá para Advanced > Network > Internet.
 ![image](https://github.com/user-attachments/assets/e78557d6-c4eb-4ca8-9d77-e4ca8d33d244)
+
 ![image](https://github.com/user-attachments/assets/653ccf21-cd82-44dc-baa5-869eb910e847)
 
 ![image](https://github.com/user-attachments/assets/059d304b-29f0-4606-b4e7-7b9b0899c818)
@@ -37,18 +38,22 @@ https://emulator.tp-link.com/ax11000-v1-eu/index.html
 #### Selecione:
 
 #### - Tipo de Conexão: PPPoE (Vivo Fibra usa PPPoE).
+![image](https://github.com/user-attachments/assets/92513e7b-7e89-499a-ae3a-47733879339d)
 
 #### - Usuário/Senha: Insira os dados fornecidos pela Vivo (geralmente no contrato).
 
 #### - Configurações Avançadas:
 
 #### - MTU: 1492 (padrão PPPoE).
+![image](https://github.com/user-attachments/assets/68c3448c-b62d-423d-8280-1a7797f51d33)
 
 #### - DNS Primário/Secundário:
 
 #### - 8.8.8.8 (Google) e 1.1.1.1 (Cloudflare).
+![image](https://github.com/user-attachments/assets/cb8711f5-736a-4db2-b5d0-697e81e2feda)
 
 #### - Clonar MAC: Ative se a Vivo bloquear o roteador.
+![image](https://github.com/user-attachments/assets/9d4a8ebc-6362-4559-a4df-7c7663d8d4f1)
 
 ### 3️⃣ Wi-Fi Tri-Band (Otimizado para Performance Máxima)
 #### Acesse Wireless e configure cada banda:
